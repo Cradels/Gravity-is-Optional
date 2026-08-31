@@ -1,12 +1,3 @@
-{
-   "epochs": [ {
-      "calculation_time": "13432053075854533",
-      "config_version": 0,
-      "model_version": "0",
-      "padded_top_topics_start_index": 0,
-      "taxonomy_version": 0,
-      "top_topics_and_observing_domains": [  ]
-   } ],
-   "hex_encoded_hmac_key": "C2089947A445BCB252D4C41D988B4236B3C4E0349D0BA5A9CCE17FBC757CC2FF",
-   "next_scheduled_calculation_time": "13432657875855357"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:95b47ba228c81c1b01c624d082edd05e5f4e3cc802a0ec51c9c107655d653360
+size 402

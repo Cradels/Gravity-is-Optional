@@ -1,14 +1,3 @@
-{
-	"version": 1,
-	"changelists": [
-		{
-			"guid": "00000000000000000000000000000000",
-			"description": "Default Uncontrolled Changelist",
-			"files": [
-				"D:/_us/Studium/GravityIsOptional/Content/TestWorld.umap",
-				"D:/_us/Studium/GravityIsOptional/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"D:/_us/Studium/GravityIsOptional/Content/ThirdPerson/Lvl_ThirdPerson.umap"
-			]
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:34b20a0dff9f293e163a9673867607ae7b538ac7bf30d1d50d93ae038c13eb50
+size 411
